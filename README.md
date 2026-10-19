@@ -1,50 +1,50 @@
-# Hi, I'm xTheoPutra 👋
+# Harasta Rahman Tri Putra
 
-**Harasta Rahman Tri Putra** — System Analyst & Full-Stack Engineer · Founder of **[xTheo Labs](https://github.com/xTheo-Labs)** · Jakarta, Indonesia (UTC+7)
+**xTheoPutra** · System Analyst & Full-Stack Engineer · Founder of [xTheo Labs](https://github.com/xTheo-Labs) · Jakarta, Indonesia (UTC+7)
 
-> I turn complex requirements into systems that ship — and I go deep on security and machine learning to build the defenses the internet needs.
+I turn complex requirements into systems that ship, and I build security and machine-learning tools that explain what they do.
 
-- 🏢 **By day:** System Analyst at PT Infotech Solutions, owning analysis through production delivery on GEN21 Enterprise, a broadcast and content-management SaaS used by television networks.
-- 🔬 **Research:** MSc in Informatics (Universitas Pamulang). My thesis is an adaptive, autonomous cyber-defense agent: ML-based intrusion detection that attacks its own model and stays robust under adversarial evasion.
-- 🧪 **Lab:** I design, build, and ship independent products under xTheo Labs, spanning AI, endpoint security, Android privacy tools, and EdTech.
+- **Work:** System Analyst at PT Infotech Solutions, owning analysis through production delivery on GEN21 Enterprise, a broadcast and content-management SaaS used by television networks.
+- **Research:** MSc in Informatics at Universitas Pamulang. My thesis is an adaptive cyber-defense agent: machine-learning intrusion detection that is tested against adversarial evasion and hardened against it.
+- **Products:** independent software under xTheo Labs, covering endpoint security, AI decision support, Android privacy tools, and education.
 
-🌐 **Portfolio → [xtheo-labs.vercel.app](https://xtheo-labs.vercel.app/)**
+**Portfolio:** [xtheo-labs.vercel.app](https://xtheo-labs.vercel.app) · **All links:** [xtheoputra.github.io](https://xtheoputra.github.io)
 
----
+## Products
 
-## 🚀 Products — xTheo Labs
+| Product | What it is | Status | Overview |
+|---|---|---|---|
+| [Silent Tears](https://silent-tears-web.vercel.app) | Local-first Windows security monitor that explains every alert and maps detections to MITRE ATT&CK | Beta · [download](https://github.com/xtheoputra/silent-tears-releases) | [xTheo-Labs/silent-tears](https://github.com/xTheo-Labs/silent-tears) |
+| [ThinkMate](https://thinkmate-web.vercel.app) | AI thinking partner for major life decisions | Beta | [xTheo-Labs/thinkmate](https://github.com/xTheo-Labs/thinkmate) |
+| [Heirst](https://heirst-web.vercel.app/en) | Privacy-first Android tools: Heirst Clean and Heirst Secure | Public beta | [xTheo-Labs/heirst](https://github.com/xTheo-Labs/heirst) |
+| [TechVerse X](https://techverse-x-web.vercel.app) | Technology learning platform with structured topic pages and search | Alpha | [xTheo-Labs/techverse-x](https://github.com/xTheo-Labs/techverse-x) |
+| [Jago Bahasa](https://jago-bahasa.vercel.app) | Offline-first app for learning 23 languages | Beta | [xTheo-Labs/jago-bahasa](https://github.com/xTheo-Labs/jago-bahasa) |
 
-| Product | What it is | Status |
-|---|---|---|
-| [**Silent Tears**](https://silent-tears-web.vercel.app/) | Local-first Windows security monitor that explains every alert and maps detections to MITRE ATT&CK. Zero telemetry. [Downloads →](https://github.com/xtheoputra/silent-tears-releases) | Pre-release |
-| [**ThinkMate**](https://thinkmate-web.vercel.app/) | AI thinking partner for big decisions | Live |
-| [**Heirst**](https://heirst-web.vercel.app/en) | Privacy-first Android tools: Heirst Clean and Heirst Secure | Public beta |
-| [**TechVerse X**](https://techverse-x-web.vercel.app/) | Learning map for emerging technologies, with roadmaps and an AI mentor | Live |
-| [**Jago Bahasa**](https://xtheoputra.github.io/jago-bahasa/) | Offline-first PWA for learning 23 languages | Live · Open source |
+Product source code is private. Licensing, partnerships, and private demos: mail.harastaputra@gmail.com.
 
-## 📂 Open source
+## Research
 
-| Repository | What it is |
-|---|---|
-| [jago-bahasa](https://github.com/xtheoputra/jago-bahasa) | 23-language learning PWA: 442 lessons, a 3,864-entry dictionary, spaced repetition, and CEFR exams |
-| [techverse-x](https://github.com/xtheoputra/techverse-x) | Technology learning platform: .NET 10 + Next.js 16 + PostgreSQL 17 |
-| [humanverse-xos](https://github.com/xtheoputra/humanverse-xos) | AI-native human development platform, at the architecture and spec stage |
-| [xoxo-lab](https://github.com/xtheoputra/xoxo-lab) | Snippets & short notes: the commands I keep forgetting |
+- **MSc thesis (in progress):** *Design and Evaluation of an Adaptive Autonomous Cyber Defense Agent Based on Machine Learning for Improved Resilience Against Adversarial Attacks*, Universitas Pamulang.
+- Laia, M. P., Ismatullah, Hakim, M., Abdussalam, M. H., Candra, Y., **Tri Putra, H. R.**, Tukiyat, & Anggai, S. (2026). *Pemanfaatan Artificial Intelligence dalam Pengembangan Aplikasi Pembelajaran di Era Digital* [Using artificial intelligence to develop learning applications in the digital era]. *APPA: Jurnal Pengabdian Kepada Masyarakat*, 3(4), 615–628. [Article](https://jurnalmahasiswa.com/index.php/appa/article/view/3757)
 
-## 📄 Research & publications
+## Writing
 
-- **Thesis (in progress):** *Design and Evaluation of an Adaptive Autonomous Cyber Defense Agent Based on Machine Learning for Improved Resilience Against Adversarial Attacks*, Universitas Pamulang.
-- Laia, M. P., Ismatullah, Hakim, M., Abdussalam, M. H., Candra, Y., **Tri Putra, H. R.**, Tukiyat, & Anggai, S. (2026). *Pemanfaatan Artificial Intelligence dalam Pengembangan Aplikasi Pembelajaran di Era Digital* (Using AI to develop learning applications in the digital era). **APPA: Jurnal Pengabdian Kepada Masyarakat**, 3(4), 615–628. [Article →](https://jurnalmahasiswa.com/index.php/appa/article/view/3757)
+- [Building a local-first Windows defense monitor](https://xtheoputra.github.io/blog/silent-tears-local-first-windows-monitor/): ETW, the Event Log, and MITRE ATT&CK, with zero telemetry.
+- [A 23-language learning app with zero dependencies and no build step](https://xtheoputra.github.io/blog/jago-bahasa-offline-first-pwa/): what offline-first really takes.
+- Machine-learning explainers on [Medium](https://medium.com/@harastaputra): neural networks, random forests, support vector machines, and regression.
+- Technology breakdowns on Substack: [Tech Unraveled](https://substack.com/@techunraveled).
 
-## 🧰 Toolbox
+## Open notes
 
-`C#/.NET` · `Angular` · `TypeScript` · `Python` · `Next.js` · `FastAPI` · `Kotlin` · `SQL Server` · `Oracle` · `PostgreSQL` · `Docker`
-**Security & ML:** `scikit-learn` · `Adversarial ML` · `Intrusion Detection` · `Windows ETW` · `MITRE ATT&CK`
+[xoxo-lab](https://github.com/xtheoputra/xoxo-lab): short, tested notes for commands that are easy to forget (Git, shell, Docker, Node, Python, Windows). MIT licensed.
 
-## 📫 Elsewhere
+## Tools
 
-[Portfolio](https://xtheo-labs.vercel.app/) · [All links](https://xtheoputra.github.io/) · [LinkedIn](https://www.linkedin.com/in/harasta-putra) · [Medium](https://medium.com/@harastaputra) · [Substack: Tech Unraveled](https://substack.com/@techunraveled) · [xTheo Labs](https://github.com/xTheo-Labs)
+C# / .NET · Angular · TypeScript · Next.js · Python · FastAPI · Kotlin · SQL Server · Oracle · PostgreSQL · Docker
+Security and machine learning: scikit-learn · adversarial ML · intrusion detection · Windows event tracing · MITRE ATT&CK
 
----
+## Contact
 
-<sub>**Also known as:** Harasta Rahman Tri Putra · Harasta Putra · **Former handle:** [@ataskaters](https://github.com/ataskaters) (2017, Universitas Dian Nuswantoro / Doscom)</sub>
+[LinkedIn](https://www.linkedin.com/in/harasta-putra) · [Portfolio](https://xtheo-labs.vercel.app) · mail.harastaputra@gmail.com
+
+<sub>Also known as Harasta Putra and xTheo. Former handle: [@ataskaters](https://github.com/ataskaters) (2017, Universitas Dian Nuswantoro).</sub>
