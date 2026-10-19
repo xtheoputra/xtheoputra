@@ -43,7 +43,7 @@
 
 ## 📫 Elsewhere
 
-[Portfolio](https://xtheo-labs.vercel.app/) · [All links](https://xtheoputra.github.io/) · [LinkedIn](https://www.linkedin.com/in/harasta-putra) · [Medium](https://medium.com/@harastaputra) · [xTheo Labs](https://github.com/xTheo-Labs)
+[Portfolio](https://xtheo-labs.vercel.app/) · [All links](https://xtheoputra.github.io/) · [LinkedIn](https://www.linkedin.com/in/harasta-putra) · [Medium](https://medium.com/@harastaputra) · [Substack: Tech Unraveled](https://substack.com/@techunraveled) · [xTheo Labs](https://github.com/xTheo-Labs)
 
 ---
 
