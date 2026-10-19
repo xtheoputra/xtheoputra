@@ -1,4 +1,4 @@
-# Hi, I'm xTheo 👋
+# Hi, I'm xTheoPutra 👋
 
 **Harasta Rahman Tri Putra** — System Analyst & Full-Stack Engineer · Founder of **[xTheo Labs](https://github.com/xTheo-Labs)** · Jakarta, Indonesia (UTC+7)
 
